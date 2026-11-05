@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 # Titanic Data Journey — D100 Ex 4
 
@@ -31,3 +32,6 @@ The notebook includes:
 
 ## Collaboration
 Development is organised using Git feature branches, pull requests and code reviews.
+=======
+# D100_ps2_ex5_choosingYourVis
+>>>>>>> 28307ef09b5d2b9663f585c08fb98903de9a5e83
